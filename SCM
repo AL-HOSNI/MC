@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>  <h3><font face="Showcard Gothic" size="5">costs & jackets:</font></h3>
+<p><a href="F:\ms.hammetha project-aseela\Noname1.html.bak">Back</a></p>
+
+<style>
+body {
+    background-color: #ff99ff;
+}
+
+
+
+
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #000000;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 90%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="img_fjords.jpg">
+  <img src="2015-Wholesale-10-pcs-lot-Fashion-Women-Coat-Winter-Black-Brown-Wool-Overcoat-Women-s-Jaket.jpg" width="600" height="617" border="0" alt="">
+  </a>
+  <div class="desc"> Cotton jackets<P>M,L,XL</P>$30.00 </div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+<img src="DP0407201717340797M.jpg" width="158" height="165" border="0" alt="">
+  </a>
+  <div class="desc">Black costs jackets <p> S,M,L</P>$5.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+  <img src="DP1017201617220248M.jpg" width="158" height="165" border="0" alt="">
+  </a>
+  <div class="desc"> light purple costs  <p>M,S</P>$5.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="DP1129201621481266M.jpg" width="158" height="165" border="0" alt="">
+  </a>
+  <div class="desc">Blue costs jackets <p>M,S</P>$5.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (15).jpg" width="225" height="225" border="0" alt="">
+  </a>
+  <div class="desc">Chiffon costs whit and black <p>M,L,S,XL</p>$10.00 </div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (16).jpg" width="212" height="238" border="0" alt="">
+  </a>
+  <div class="desc"> Chiffon costs reddish brown <p>M,S,L</p>$20.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+
+
+<HR WIDTH="100%"COLOR="#000000" SIZE="1"</HR>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (17).jpg" width="225" height="225" border="0" alt="">
+  </a>
+  <div class="desc">Chiffon costs brown<p> M,S,L,XL</P>$15.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (19).jpg" width="201" height="251" border="0" alt="">
+  </a>
+  <div class="desc">Black jackets<P>M,S,L,XL,XXL</P>$10.00 </div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="DP1230201617104784M.jpg" width="158" height="165" border="0" alt="">
+  </a>
+  <div class="desc">Cotton costs pink<P>M,L,S,XL</P>$5.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (14).jpg" width="257" height="196" border="0" alt="">
+  </a>
+  <div class="desc">Chiffon costs whit <p>M,S,L</P>$10.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (20).jpg" width="201" height="251" border="0" alt="">
+  </a>
+  <div class="desc">jeans jackets<p>M,S,L</P>$12.500</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+ 
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (41).jpg" width="225" height="224" border="0" alt="">
+  </a>
+  <div class="desc"> 2 colours available black & brown <P>M,S</P>$20.00 </div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+
+<HR WIDTH="100%"COLOR="#000000" SIZE="1"</HR>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (42).jpg" width="224" height="224" border="0" alt="">
+  </a>
+  <div class="desc">Cotton jackets<p>M,S</p>$15.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="New-2014-Women-s-Winter-Autumn-Brown-bomber-motorcycle-Leather-jackets-women-2-color-brand-jacket.jpg" width="850" height="850" border="0" alt="">
+  </a>
+  <div class="desc">leather jackets<p>M,L,S</P>$14.00 </div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (59).jpg" width="244" height="207" border="0" alt="">
+  </a>
+  <div class="desc">4 colours available<p>M,LM,S</P>$16.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images.jpg" width="180" height="180" border="0" alt="">
+  </a>
+  <div class="desc"> 2 colours available<P>M,L,S</P>$20.00 </div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+  <img src="images (58).jpg" width="307" height="200" border="0" alt="">
+  </a>
+  <div class="desc">different kind available  <P>M,S,L</P> $15.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+<img src="images (60).jpg" width="318" height="159" border="0" alt="">
+  </a>
+  <div class="desc">different kind available<P>M,L,S</P>$50.00</div>
+     <center> <INPUT Type="button" VALUE="Buy" onClick="history.go(-1);return true;"></center>
+
+</div>
+
+
+
+</body>
+</html>
